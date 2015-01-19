@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="ChildStuntedness.CostGradient"/>
+<fullyQualifiedTypeName name="java.io.BufferedReader"/>
+<fullyQualifiedTypeName name="java.io.FileReader"/>
+<fullyQualifiedTypeName name="javax.lang.model.type.PrimitiveType"/>
+<fullyQualifiedTypeName name="java.io.BufferedWriter"/>
+<fullyQualifiedTypeName name="java.io.FileWriter"/>
+<fullyQualifiedTypeName name="java.util.HashMap"/>
+<fullyQualifiedTypeName name="java.lang.System"/>
+<fullyQualifiedTypeName name="java.util.ArrayList"/>
+<fullyQualifiedTypeName name="ChildStuntedness.Entries"/>
+<fullyQualifiedTypeName name="java.lang.Double"/>
+<fullyQualifiedTypeName name="java.lang.Integer"/>
+<fullyQualifiedTypeName name="org.apache.commons.math3.linear.ConjugateGradient"/>
+<fullyQualifiedTypeName name="org.apache.commons.math3.optimization.general.ConjugateGradientFormula"/>
+<fullyQualifiedTypeName name="org.apache.commons.math3.optim.nonlinear.scalar.gradient.NonLinearConjugateGradientOptimizer"/>
+<fullyQualifiedTypeName name="org.apache.commons.math3.optim.nonlinear.scalar.gradient.NonLinearConjugateGradientOptimizer.Formula"/>
+<fullyQualifiedTypeName name="org.apache.commons.math3.optim.SimpleVectorValueChecker"/>
+<fullyQualifiedTypeName name="org.apache.commons.math3.optim.SimpleValueChecker"/>
+<fullyQualifiedTypeName name="org.apache.commons.math3.optim.InitialGuess"/>
+<fullyQualifiedTypeName name="org.apache.commons.math3.optim.OptimizationData"/>
+<fullyQualifiedTypeName name="org.apache.commons.math3.optim.nonlinear.scalar.ObjectiveFunction"/>
+<fullyQualifiedTypeName name="org.apache.commons.math3.analysis.MultivariateFunction"/>
+<fullyQualifiedTypeName name="org.apache.commons.math3.analysis.MultivariateVectorFunction"/>
+<fullyQualifiedTypeName name="ChildStuntedness"/>
+<fullyQualifiedTypeName name="ChildStuntedness.CostFunction"/>
+<fullyQualifiedTypeName name="org.apache.commons.math3.optim.nonlinear.scalar.ObjectiveFunctionGradient"/>
+<fullyQualifiedTypeName name="ChildStuntedness.GradientFunction"/>
+<fullyQualifiedTypeName name="org.apache.commons.math3.optim.nonlinear.scalar.GoalType"/>
+<fullyQualifiedTypeName name="org.apache.commons.math3.optim.MaxEval"/>
+<fullyQualifiedTypeName name="org.apache.commons.math3.optim.MaxIter"/>
+<fullyQualifiedTypeName name="org.apache.commons.math3.optimization.PointValuePair"/>
+<fullyQualifiedTypeName name="org.apache.commons.math3.exception.TooManyEvaluationsException"/>
+<fullyQualifiedTypeName name="org.apache.commons.math3.optim.PointValuePair"/>
+<fullyQualifiedTypeName name="java.lang.Exception"/>
+<fullyQualifiedTypeName name="Util"/>
+<fullyQualifiedTypeName name="ChildStuntedness.Entry"/>
+<fullyQualifiedTypeName name="java.util.Arrays"/>
+</qualifiedTypeNameHistroy>
