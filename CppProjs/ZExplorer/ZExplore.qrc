@@ -1,0 +1,11 @@
+<!DOCTYPE RCC>
+<RCC version="1.0">
+  <qresource prefix="/Icons">
+    <file alias="import.png">../../../Icons/import48.png</file>
+    <file alias="new.png">../../../Icons/new_icon16.png</file>
+    <file alias="open.png">../../../Icons/open16.png</file>
+    <file alias="ZExplore.png">../../../Icons/ZExplore.png</file>
+  </qresource>
+</RCC>
+
+
