@@ -1,0 +1,28 @@
+<!DOCTYPE RCC>
+<RCC version="1.0">
+  <qresource prefix="/MenuIcons">
+    <file alias="add.gif">Icons/add.gif</file>
+    <file alias="build.png">Icons/build_exec.png</file>
+    <file alias="close.gif">Icons/close.gif</file>
+    <file alias="copy.gif">Icons/copy.gif</file>
+    <file alias="cut.gif">Icons/cut_edit.gif</file>
+    <file alias="paste.gif">Icons/paste_edit.gif</file>
+    <file alias="import.gif">Icons/import_wiz.gif</file>
+    <file alias="export.gif">Icons/export_wiz.gif</file>
+    <file alias="file.gif">Icons/file.gif</file>
+    <file alias="openfolder.gif">Icons/fldr_obj.gif</file>
+    <file alias="folder.gif">Icons/folder.gif</file>
+    <file alias="open_new.gif">Icons/open_new.gif</file>
+    <file alias="open_task.gif">Icons/open-task.gif</file>
+    <file alias="save.gif">Icons/save_edit.gif</file>
+    <file alias="saveas.gif">Icons/saveas_edit.gif</file>
+    <file alias="saveall.gif">Icons/saveall_edit.gif</file>
+    <file alias="print.gif">Icons/print_edit.gif</file>
+    <file alias="run.gif">Icons/run_exc.gif</file>
+    <file alias="stop.gif">Icons/stop.gif</file>
+    <file alias="stash.png">Icons/stash.png</file>
+    <file alias="sort.png">Icons/outlineView-Sort.png</file>
+    <file alias="edit_src.png">Icons/icon_db_edit_src_lookup.png</file>
+    <file alias="tree.png">Icons/icon_show_callees.png</file>
+  </qresource>
+</RCC>
